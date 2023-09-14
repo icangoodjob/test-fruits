@@ -1,0 +1,14 @@
+makets/
+build/
+app/
+# dist/
+node_modules/
+_node_modules/
+package-lock.json
+package.json
+gulpfile.js
+README.md
+version.json
+.nvmrc
+.idea/
+.git
